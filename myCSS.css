@@ -2,6 +2,7 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
+     font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 }
 .homePage {
 	background: #FCB13D;
@@ -56,7 +57,7 @@ a:link {
      color: #000000;
 }
 a:visited {
-     color: #000;
+     color: #000000;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
